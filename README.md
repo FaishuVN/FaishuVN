@@ -1,6 +1,6 @@
 <!-- trungquandev -->
 <a href="#" target="_blank">
-  <img src="D-Jukie.svg" width="1200" alt="Click to see the source" />
+  <img src="PhongMercury.svg" width="1200" alt="Click to see the source" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
