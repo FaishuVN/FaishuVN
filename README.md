@@ -70,7 +70,7 @@
   <a href="https://facebook.com/Sadboi.VuPhong" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="jukie-facebook" />
   </a>
-  <a href="https://github.com/BourBon" target="blank">
+  <a href="https://github.com/BourBonVN" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="jukie-github" />
   </a>
   <a href="https://instagram.com/PhongMercury" target="blank">
