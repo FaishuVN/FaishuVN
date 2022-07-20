@@ -67,10 +67,10 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/VuXuanPhongCoder" target="blank">
+  <a href="https://facebook.com/Sadboi.VuPhong" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="jukie-facebook" />
   </a>
-  <a href="https://github.com/PhongMercury" target="blank">
+  <a href="https://github.com/BourBon" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="jukie-github" />
   </a>
   <a href="https://instagram.com/PhongMercury" target="blank">
